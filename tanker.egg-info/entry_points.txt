@@ -1,0 +1,2 @@
+[console_scripts]
+tanker-seed-base = app.scripts.seed_base:main
